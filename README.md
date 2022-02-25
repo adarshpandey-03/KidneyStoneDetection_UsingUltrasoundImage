@@ -108,5 +108,5 @@ By considering only region of interest the other binary objects which mostly out
 <br/>
 **References**<br/>
 Suresh M B, Abhishek M R. 2021. “Kidney Stone Detection Using Digital Image Processing Techniques.” 2021 IEEE Third International Conference on Inventive Research in Computing Applications (ICIRCA).<br/>
-Satadru Mukherjee’s git repository for Ultrasound images Dataset. https://github.com/SatadruMukherjee/Dataset/blob/main/Kidney%20stone%20detection%20(1).zip <br/>
+Satadru Mukherjee’s git repository for Ultrasound images Dataset.<br/>
 
