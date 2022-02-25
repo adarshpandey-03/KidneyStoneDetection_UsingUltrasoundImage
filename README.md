@@ -85,7 +85,7 @@ These 4 lines are used to select the image from the system.<br/>
    BW = roipoly(po,row,col); <br/>
    k=po.*double(BW); <br/>
    figure; <br/>
-   imshow(k); <br/>
+   imshow(k); <br/><br/>
 As the kidney function is to purify the blood by removing calcium and other substances from the blood and these calcium and other substances start collecting in kidney and    make a stone most of the time these stone will pass through urine but some time stone stuck into kidney and grow this type of stone will majorly occur in the junction of kidney outlet and ureters which connect kidney with bladder.<br/>
 So we decide to make our region of interest in this central part and find stone in ROI only.<br/>
 By considering only region of interest the other binary objects which mostly out of the kidney are not considered and our chances of predicting the stone will become more accurate.<br/><br/>
@@ -105,8 +105,8 @@ By considering only region of interest the other binary objects which mostly out
    
    ![In this image stone is present which also detected by code.](https://user-images.githubusercontent.com/56343106/155720012-028edbe6-9501-40cd-ab0a-469883f87bb8.png)   
    <br/><br/>
-
-**References**
+<br/>
+**References**<br/>
 Suresh M B, Abhishek M R. 2021. “Kidney Stone Detection Using Digital Image Processing Techniques.” 2021 IEEE Third International Conference on Inventive Research in Computing Applications (ICIRCA).<br/>
 Satadru Mukherjee’s git repository for Ultrasound images Dataset. https://github.com/SatadruMukherjee/Dataset/blob/main/Kidney%20stone%20detection%20(1).zip <br/>
 
