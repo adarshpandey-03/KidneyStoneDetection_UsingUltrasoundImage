@@ -106,6 +106,3 @@ By considering only region of interest the other binary objects which mostly out
    ![In this image stone is present which also detected by code.](https://user-images.githubusercontent.com/56343106/155720012-028edbe6-9501-40cd-ab0a-469883f87bb8.png)   
    <br/><br/>
 <br/>
-**References**<br/>
-Suresh M B, Abhishek M R. 2021. “Kidney Stone Detection Using Digital Image Processing Techniques.” 2021 IEEE Third International Conference on Inventive Research in Computing Applications (ICIRCA).<br/>
-
